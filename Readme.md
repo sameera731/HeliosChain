@@ -146,7 +146,10 @@ http://localhost:3000
 ## 3. ML Scoring Engine 
 Access the ML files and notebooks for Hybrid Scoring Engine in ML Folder.
 
-## 4. Verify Installation
+## 4. Smart Contracts
+Deploy the smart contracts locally via hardhat scripts for a local setup by your wallet address.
+
+## 5. Verify Installation
 
 1. Open a browser.
 2. Visit:
